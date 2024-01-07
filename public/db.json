@@ -1,0 +1,166 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Intel Core i9-11900K",
+      "price": 20000,
+      "stock": "In Stock",
+      "category": "Processor",
+      "brand": "Intel",
+      "model": "Core i9-11900K",
+      "specification": "8 cores, 16 threads, 3.5 GHz base frequency, 5.3 GHz max turbo frequency",
+      "description": "This Core i9-11900K Processor comes with Intel Iris Xe Graphics 32 graphics. This new 11th gen Rocket Lake microarchitecture is manufactured with the 14nm process that comes with eight cores and 16 threads. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 400 and 500 series motherboards. Focusing on this, all the major motherboard manufacturers have already started BIOS updates for their 400 and 500 series lineup. These Processors also support 64-bit computing on Intel architecture require an Intel x86-64 (64 bit) architecture-enabled BIOS.Intel 11th Generation Core i9-11900K Processor having the base frequency of 3.50 GHz that can be reached as max turbo frequency at 5.30 GHz. The processor has a compatibility socket of LGA 1200 that is supported by 400 and 500 series Intel motherboards. It has a SmartCache of 16 MB containing 8 cores and 16 threads. With a bus speed of 8 GT/s, it has thermal design power (TDP) rating of 125W. This latest microchip has few expansion options such as 4.0 PCI express revision having configured up to 1x16, 2x8, 1x8+2x4, and a maximum of 20 lanes. Considering the memory this processor has a dual-channel of max 128GB of the size that supports up to DDR4-3200 bus speed.",
+      "image_url": "https://i.ibb.co/BB6Hn3T/i9-11900k.jpg",
+      "reviews": [
+        {
+          "rating": "4.2",
+          "comment": "Good"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "AMD Ryzen 9 5950X",
+      "price": 34000,
+      "stock": "In Stock",
+      "category": "Processor",
+      "brand": "AMD",
+      "model": "Ryzen 9 5950X",
+      "specification": "16 cores, 32 threads, 3.4 GHz base frequency, 4.9 GHz max boost frequency",
+      "description": "Power up your computing experience with the AMD Ryzen 9 5950X 3.4 GHz 16-Core AM4 Processor, which features 16 cores and 32 threads to help quickly load and multitask demanding applications. Designed for socket AM4 motherboards using the powerful Zen 3 architecture, the 7nm 5th generation Ryzen processor offers significantly improved performance compared to its predecessor. With a base clock speed of 3.4 GHz and a max boost clock speed of 4.9 GHz in addition to 64MB of L3 Cache, the Ryzen 9 5950X is built to deliver the performance needed to smoothly handle tasks ranging from content creation to immersive gaming experiences. Other features include support for PCIe Gen 4 technology and 3200 MHz DDR4 RAM with compatible motherboards. This processor has a 105W TDP (Thermal Design Power) and does not include a cooling solution. Please note that it does not have an integrated GPU, so a dedicated graphics card is required.",
+      "image_url": "https://i.ibb.co/jR9B6wJ/ryzen-9-5950x.jpg",
+      "reviews": [
+        {
+          "rating": "4.9",
+          "comment": "Good"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Intel Core i7-10700K",
+      "price": 23000,
+      "stock": "In Stock",
+      "category": "Processor",
+      "brand": "Intel",
+      "model": "Core i7-10700K",
+      "specification": "8 cores, 16 threads, 3.8 GHz base frequency, 5.1 GHz max turbo frequency",
+      "description": "Introducing the all-new 10th Generation Intel Core i7 10700K processor, Unlocked 10th Gen Intel Core desktop processors are optimized for enthusiast gamers, overclockers, and serious content creators looking to take advantage of amazing overclocking and unleash the performance capabilities of these new processors. With an optimal balance of frequency, cores, and threads, advanced tuning support, and blazing connectivity unlocked 10th Gen Intel Core processors supercharge desktops for a competitive edge. Intel 10th Generation Core i7-10700K Processor has a base frequency of 3.80 GHz that can be reached as max turbo frequency at 5.10 GHz. It has a SmartCache of 16 MB containing 8 cores and 16 threads. With a bus speed of 8 GT/s DMI3, it has an integrated Intel UHD Graphics 630. This internal graphics has 350 MHz of base & 1.20 GHz of max dynamic frequency and 64 GB of video max memory. Considering the memory this processor has a dual-channel of max 128GB of the size that supports up to DDR4-2666 bus speed. Experience amazing gameplay and creativity with Intel's supported platform features. Get more from your PC build by untethering with Intel Wi-Fi 6 (Gig+), versatile connectivity with Thunderbolt 3, and accelerated responsiveness with Intel Optane memory. Whether you are looking to fully experience the latest games and entertainment or boost your productivity when creating or running the latest business productivity apps, Intel's newest lineup of desktop processors delivers powerful features that empower you to do more.",
+      "image_url": "https://i.ibb.co/jfC8XKz/i7-10700k.jpg",
+      "reviews": [
+        {
+          "rating": "4.9",
+          "comment": "Good"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "AMD Ryzen 7 5800X",
+      "price": 20000,
+      "stock": "Out of Stock",
+      "category": "Processor",
+      "brand": "AMD",
+      "model": "Ryzen 7 5800X",
+      "specification": "8 cores, 16 threads, 3.8 GHz base frequency, 4.7 GHz max boost frequency",
+      "description": "The AMD Ryzen 7 5800X is an 8-core desktop processor with Simultaneous Multithreading (SMT), which allows it to process 16 threads simultaneously. With its launch on 08.10.2020, it is the fastest 8-core processor from AMD.The Ryzen 7 5800X clocks with a base clock of 3.8 GHz and reaches up to 4.7 GHz on one core in turbo mode. When all 8 cores are utilized, the AMD Ryzen 7 5800X achieves up to 4.5 GHz.The performance of AMD Ryzen 7 5800X is consistently very good in all applications. Especially in multi-threaded applications, the native 8-core can show its strengths, although the single-core performance has been significantly improved compared to the older Zen 2 architecture.The internal structure of the processor has not changed fundamentally. The CCX structure has changed somewhat compared to Zen2, because now a CCX consists of up to 8-CPU cores. So, each individual core can access the complete L3 cache (32 MB). Furthermore, the CCX modules are connected to each other via the same I/O die, which we already know from Zen2. According to AMD, the Infinity-Fabric should now reach clock rates of up to 2Ghz, which in turn allows a RAM clock of 4.000 MHz without performance loss.For the manufacturing processes, AMD also relies on TSCM for the Vermeer processors for the 7nm production of the CPU cores, although the I/O die is still supplied in 12nm by GlobalFoundries.In games, AMD's Ryzen 7 5800X can convince with its significantly improved IPC and even put Intel in its place. With the AMD Ryzen 7 5800X, gamers are well prepared for the future as simultaneous streaming is no problem with the new Ryzen 7 5800X.",
+      "image_url": "https://i.ibb.co/6rvMgM4/ryzen-7-5800x.jpg",
+      "reviews": [
+        {
+          "rating": "4.9",
+          "comment": "Good"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "ASUS ROG Strix Z590-E Gaming",
+      "price": 10000,
+      "stock": "Stock",
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "model": "ROG Strix Z590-E Gaming",
+      "specification": "LGA 1200, ATX,RAM Memory Technology: DDR4, Max Memory Size-128 GB, Audio: ROG SupremeFX 7.1 Surround Sound,LAN:Intel 2.5 Gb Ethernet, Storage:M.2, SATA III",
+      "description": "ROG Strix Z590-F Gaming WiFi motherboard is designed with boosted power delivery and optimized cooling to cope with the demands of powerful 11th Generation Intel Core Rocket Lake processors. Along with the latest Intel Wi-Fi 6E and PCI Express 4.0 M.2 for superfast transfer speeds and storage, Strix Z590-F Gaming WiFi features Two-Way AI Noise Cancelation to ensure clear communication in any scenario. Strix Z590-F Gaming WiFi is unmistakably ROG with its futuristic design elements, iridescent ROG logo, monochrome finish and Aura lighting that will give your build a subtle but vibrant look. ROG Strix Z590-F Gaming WiFi is armed with up-rated power delivery and optimized cooling to enable top-tier performance for gaming. Fully equipped with intelligent controls for easy management of overclocking, cooling and networking settings, Strix Z590-F Gaming WiFi also features Two-Way AI Noise Cancelation for crystal-clear in-game communication. This powerful ASUS-exclusive utility leverages a massive deep-learning database to reduce background noise from the microphone and incoming audio while preserving voices. Distracting keyboard clatter, mouse clicks and other ambient noises are removed so you can hear and be heard with perfect clarity while gaming or during calls. ROG Strix Z590-F Gaming WiFi includes the latest connectivity for super smooth online experiences and blisteringly fast large file transfers. Superior audio performance gives you a massive advantage, allowing you to pick up on the smallest audio cues for a completely immersive gaming experience. Cyberpunk-inspired aesthetics are accentuated by bold slashes and cyber text on ROG Strix Z590-F Gaming WiFi. By pairing it with other products from the expansive ROG ecosystem, you can create a fully customized gaming setup that reflects your personal style. ROG-exclusive software utilities deliver intuitive audio tuning and gaming enhancements so you can configure your gaming build the way you want. Bundled third-party software like AIDA64 and MemTest86 allow you to benchmark individual components or the entire system. The renowned ROG UEFI (BIOS) provides everything you need to configure, tweak, and tune your rig. If offers intelligently simplified options for newcomers to PC DIY, as well as more comprehensive features for seasoned veterans. Take care of complex tuning with just one click. ASUS 5-Way Optimization is a system-wide tuning utility that overclocks the processor and tunes fan speeds to ensure the best balance between cooling and acoustics.",
+      "image_url": "https://i.ibb.co/Kz8bSXT/rog-strix-z590-f-gaming-wi-fi.jpg",
+      "reviews": [
+        {
+          "rating": "4.9",
+          "comment": "Good"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "ASUS Prime B560M-A",
+      "price": 34000,
+      "stock": "Stock",
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "model": "Prime B560M-A",
+      "specification": "Socket Type:LGA 1200, RAM Memory Technology:DDR4, Max Memory Size:128 GB , Audio:Realtek ALC897 7.1 Surround Sound ,LAN:Realtek RTL8111H 1 Gb Ethernet , Storage:M.2, SATA III",
+      "description": "ASUS PRIME B560M-A Motherboard features Intel LGA 1200 socket for 11th Gen Intel Core processors. It comes with an enhanced power solution with 8 power stages, alloy chokes, and durable capacitors for stable power delivery. It features comprehensive cooling with a stronger VRM heatsink, flexible M.2 heatsink, PCH heatsink, hybrid fan headers, and Fan Xpert 2+. The ASUS PRIME B560M-A packs flexible tools to tune every aspect of your system, enabling performance tweaks to perfectly match the way you work, to maximize productivity. This motherboard is engineered with multiple onboard heatsinks and an array of hybrid fan headers to ensure your rig stays cool and stable under intense workloads. In this motherboard, the VRM heatsink with an underneath thermal pad improves heat transfer from the MOSFETs for better cooling performance. Here, Stable power is essential to extract every last bit of performance out of 11th Generation Intel Core processors. ASUS PRIME B560M-A is geared to cater to the demands of these high-core count CPUs. A VRM with 6+1+1 Power Stages delivers the power and efficiency that the latest Intel processors demand. Prime B560M-A offers a total of two M.2 slots, with one slot supporting data-transfer speeds of up to 64 Gbps via PCI Express 4.0, enabling quicker boot-up and app load times with OS or application drives. ASUS B560 motherboards provide all the fundamentals to boost daily productivity, so your system will be ready for action with stable power, intuitive cooling, and flexible transfer options. The ASUS PRIME B560M-A 11th Gen Motherboard comes with 3 years warranty.",
+      "image_url": "https://i.ibb.co/VmDRb5F/prime-b560-plus.jpg",
+      "reviews": [
+        {
+          "rating": "4.9",
+          "comment": "Good"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "GIGABYTE B550M DS3H",
+      "price": 34000,
+      "stock": "Stock",
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "model": "B550M DS3H",
+      "specification": "Socket Type:AM4,Form Factor:Micro ATX ,RAM Memory Technology:DDR4, Max Memory Size:128 GB,Audio:Realtek ALC887 7.1 Surround Sound ,LAN:Realtek GbE LAN ,Storage:M.2, SATA III ",
+      "description": "GIGABYTE UD series motherboards use a 5+3 phases pure digital PWM + Low RDS(on) MOSFETs design to support the 3rd Gen AMD Ryzen CPUs by offering incredible precision in delivering power to the motherboard's most power-hungry and energy-sensitive components as well as delivering enhanced system performance and ultimate hardware scalability. With NVMe PCIe 4.0*/3.0 x4 and PCIe 3.0 x2 M.2 connectors onboard, GIGABYTE Motherboards bring users to experience NVMe mode or SATA mode connectivity for M.2 SSD devices. Delivering up to 64 Gb/s data transfer speed, the dual M.2 connectors design provides an ideal storage solution while also supporting in RAID modes. Realtek 8118 LAN is a high performance and friendly network chip for gaming players with automatic bandwidth allocation to ensure the highest network priority of the game or application. It can provide users the most comprehensive features and the fastest and smoothest Internet experience. HDMI 2.1, which is backward compatible with HDMI 2.0/ 1.4 and offering 48 Gb/s of bandwidth â€“ twice times more than the previous generation. This unlocks the potential for users to transfer multiple video streams, as well as a native cinematic 21:9 ratio (which most movies are shot in), Full HDR, and HDCP 2.3 support, to offer the best visual experience for viewers. With Smart Fan, 5 users can ensure that their gaming PC can maintain its performance while staying cool. Smart Fan 5 allows users to interchange their fan headers to reflect different thermal sensors at different locations on the motherboard. Not only that, with Smart Fan, but 5 more hybrid fan headers that support both PWM and Voltage mode fans have also been introduced to make the motherboard more liquid cooling friendly. Achieve fan silence. With Fan Stop, map any fan to stop completely when temperatures drop below a specified threshold. Which fan stops, based on readings from which sensor, and at what temperatureâ€”all of it can be customized to your liking. With B550 Motherboards, RGB Fusion 2.0 is even better with Addressable LEDs. RGB Fusion 2.0 offers users the option to control onboard RGB and external RGB / Addressable LED light strips* for their PC build. Already feature filled with colors and patterns, RGB Fusion 2.0 is now upgraded to improve the Addressable LED support. With external Addressable LED strips, where each LED is digitally addressable that users can experience even more patterns, styles, and illuminations. With B550 Motherboards support the external 5V Addressable LED lighting strips and up to 300 LED lights. RGB Fusion 2.0 with Addressable LEDs comes with new patterns and various speed settings with more to come. With an integrated intuitive user interface, the RGB Fusion 2.0 provides you a better solution for customizing the lighting effects across all supported devices. From motherboards, graphics cards to the peripheral products, you can personalize your gaming rig with your own style and show off your build by sharing the profiles. In addition, the new gaming mode makes the lighting effects interactive with selected games to bring you the most immersive gaming experience. GIGABYTE motherboards use high-end audio capacitors. These high-quality capacitors help deliver high resolution and high fidelity audio to provide the most realistic sound effects for gamers. GIGABYTE motherboards feature an audio noise guard that essentially separates the boardâ€™s sensitive analog audio components from potential noise pollution at the PCB level. With GIGABYTE Q-Flash Plus, you donâ€™t need to install the CPU, memory, and graphics card nor enter the BIOS menu to flash the BIOS. Just download and save a new BIOS file (rename to gigabyte.bin) on the USB flash drive, then press the dedicated Q-Flash Plus button and youâ€™re good to go! Sulfur compounds in the air can penetrate tiny onboard resistors creating chemical change and causing these resistors to open or short. If either of these occurs the motherboard will fail to function. By equipping resistors with an Anti-Sulfur Design GIGABYTE gives Ultra Durable Motherboards a whole new meaning. The BIOS is essential for users during the initial setup to allow for the most optimal settings. With a new GUI and easier to use functionalities, GIGABYTE has been able to reinvent the BIOS to give users a better experience while setting up their new system.",
+      "image_url": "https://i.ibb.co/sFzJtqg/b550m-ds3h-500x500.jpg",
+      "reviews": [
+        {
+          "rating": "4.9",
+          "comment": "Good"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Gigabyte AORUS 64GB DDR4",
+      "price": 12000,
+      "stock": "Stock",
+      "category": "Ram",
+      "brand": "Gigabyte",
+      "model": "AORUS",
+      "specification": "Type:DDR4 , Capacity:64GB (2x32GB), Speed:3200MHz, Voltage:1.35V,CAS Latency:16, Heat Spreader:Aluminum,Compatibility:Intel and AMD platforms",
+      "description": "High-capacity DDR4 RAM for demanding tasks and multitasking.",
+      "image_url": "https://i.ibb.co/RQVYY6F/gigabyte-64gb.png",
+      "reviews": [
+        {
+          "rating": "4.9",
+          "comment": "Good"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Corsair Vengeance LPX 16GB DDR4",
+      "price": 34000,
+      "stock": "Stock",
+      "category": "Ram",
+      "brand": "AMD",
+      "model": "Ryzen 9 5950X",
+      "specification": "16 cores, 32 threads, 3.4 GHz base frequency, 4.9 GHz max boost frequency",
+      "description": "Power up your computing experience with the AMD Ryzen 9 5950X 3.4 GHz 16-Core AM4 Processor, which features 16 cores and 32 threads to help quickly load and multitask demanding applications. Designed for socket AM4 motherboards using the powerful Zen 3 architecture, the 7nm 5th generation Ryzen processor offers significantly improved performance compared to its predecessor. With a base clock speed of 3.4 GHz and a max boost clock speed of 4.9 GHz in addition to 64MB of L3 Cache, the Ryzen 9 5950X is built to deliver the performance needed to smoothly handle tasks ranging from content creation to immersive gaming experiences. Other features include support for PCIe Gen 4 technology and 3200 MHz DDR4 RAM with compatible motherboards. This processor has a 105W TDP (Thermal Design Power) and does not include a cooling solution. Please note that it does not have an integrated GPU, so a dedicated graphics card is required.",
+      "image_url": "/images/exercise_image.jpg",
+      "reviews": [
+        {
+          "rating": "4.9",
+          "comment": "Good"
+        }
+      ]
+    }
+  ]
+}
